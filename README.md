@@ -30,8 +30,8 @@ When I'm not working with data, I enjoy expressing my creativity through arts an
 ## 🌱 Currently Learning 
 
 - Microsoft Fabric
-- Advanced SQL, focusing on Advanced joins (INNER, LEFT, FULL, SELF JOIN)
-CTEs (Common Table Expressions)
+- Advanced SQL
+
 
 ## 🛠️ Technical Skillset
 
