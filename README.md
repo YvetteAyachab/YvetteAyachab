@@ -6,64 +6,50 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E9EF7&center=true&vCenter=true&width=700&lines=Data+Analyst+%7C+Business+Intelligence+Analyst;Building+Analytics+Solutions+for+Real+Businesses;Python+%7C+Excel+%7C+Power+BI+%7C+AWS;Transforming+Data+into+Business+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1200&color=2E9EF7&center=true&vCenter=true&width=750&lines=Data+Analyst+%7C+Business+Intelligence+Analyst;Building+Analytics+Solutions+for+Real+Businesses;Python+%7C+Excel+%7C+Power+BI+%7C+AWS;Transforming+Data+into+Business+Decisions" alt="Typing SVG"/>
 
 </div>
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Analyst+%7C+Business+Intelligence;Transforming+Data+into+Actionable+Insights;Excel+%7C+SQL+%7C+Power+BI+%7C+AWS" alt="Typing SVG" />
-</div>
 
-<!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:yvetteayachab@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN-PROFILE">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yvetteayachab@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YvetteAyachab">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+---
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+# 🚀 About Me
 
-When I'm not working with data, I enjoy expressing my creativity through arts and crafts, experimenting with new recipes in the kitchen, and spending quality time with my family.
+I'm a **Data Analyst** with a background in **Economics, Mathematics, and Business Administration**, passionate about transforming raw data into meaningful business insights.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website]https://github.com/YvetteAyachab/YvetteAyachab
-      
-## 🔭 What I'm Currently Working On 
+I specialize in building analytics solutions that help organizations make smarter, faster, and more informed decisions through **data visualization, automation, statistical analysis, and predictive analytics**.
 
-- **Project A:** Building an executive Power BI dashboard connected to SQL databases and cloud storage, featuring automated KPI tracking, forecasting models, and drill-down analytics. 
-- **Project B:Developing an Excel-based inventory management system using Power Query and Power Pivot to track materials, production costs, stock levels, and product profitability for a custom corset business.
+My portfolio showcases projects across **financial analytics, business intelligence, cloud analytics, customer analytics, and operational reporting**, using modern analytics tools including **Python, Excel, Power BI, SQL, and AWS**.
 
-## 🌱 Currently Learning 
+Rather than simply analyzing data, I enjoy solving real business problems by designing dashboards, uncovering trends, automating reporting processes, and creating predictive models that deliver measurable business value.
 
-- Microsoft Fabric
-- Advanced SQL
+Outside of analytics, I enjoy arts and crafts, experimenting with new recipes, and spending quality time with my family.
 
+---
 
-## 🛠️ Technical Skillset
+# 🌐 Portfolio
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+Explore my complete collection of analytics projects, dashboards, machine learning models, and business case studies.
 
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Intermediate-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
+📂 **GitHub Portfolio:** https://github.com/YvetteAyachab
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-</p>
+💼 **LinkedIn:** https://linkedin.com/in/YOUR-LINKEDIN-PROFILE
 
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+📧 **Email:** yvetteayachab@gmail.com
+
+---
